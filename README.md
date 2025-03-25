@@ -44,4 +44,4 @@ Joke-API is a simple RESTful API built with Node.js and Express to deliver joy t
 
 ## License
 
-This project is licensed under the MIT License. S
+This project is licensed under the MIT License.
