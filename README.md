@@ -40,7 +40,7 @@ Joke-API is a simple RESTful API built with Node.js and Express to deliver joy t
 
 ## Demo
 
-[Demo](./demo.gif)
+![Demo](./demo.gif)
 
 ## License
 
